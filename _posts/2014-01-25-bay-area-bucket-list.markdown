@@ -4,7 +4,7 @@ title: Amy's Bay Area Bucket List
 published: true
 ---
 
-It's no secret that I plan to move back to NYC sooner or later Until then, 
+It's no secret that I plan to move back to NYC sooner or later. Until then, 
 I want to make the most of the time I'm still living in San Francisco. 
 Here's a list of suggestions gathered from friends. If you'd like to help extend
 my bucket list (and possibly my stay) feel free to [file a pull request on github](https://github.com/amyquispe/amyquispe.github.io/blob/master/_posts/2014-01-25-bay-area-bucket-list.markdown).

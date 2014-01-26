@@ -37,6 +37,9 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Ride the St. Francis Hotel Elevators
 * Get 10 friends together for the Real Escape Game 
 * Learn to stop worrying and love the bike  
+* After Dark at the Exploratorium
+* Design Night at the Autodesk Gallery
+* [Helicopter over SF](http://sfhelicopters.com/)
 
 ***
 
@@ -64,3 +67,4 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 
 * Rent a cabin in Tahoe
 * Camp in Yosemite  
+* Go to the Pier in Santa Cruz

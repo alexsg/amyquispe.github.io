@@ -7,7 +7,7 @@ published: false
 It's no secret that I plan to move back to NYC sooner or later Until then, 
 I want to make the most of the time I'm still living in San Francisco. 
 Here's a list of suggestions gathered from friends. If you'd like to help extend
-my bucket list (and possibly my stay) feel free to [file a pull request on github]()
+my bucket list (and possibly my stay) feel free to [file a pull request on github](https://github.com/amyquispe/amyquispe.github.io/blob/master/_posts/2014-01-25-bay-area-bucket-list.markdown)
 
 # Food #
 * Burma Superstar: Tea Leaf Salad
@@ -26,6 +26,9 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Walk the Golden Gate Bridge
 * Serve the community
 * Kayak in the Bay
+* Go Pride partying
+* Dance at Bootie SF
+* Ride the St. Francis Hotel Elevators
 * Get 10 friends together for the Real Escape Game 
 * Learn to stop worrying and love the bike
 
@@ -38,7 +41,6 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Sausalito
 * Chinatown
 * Union Square
-* St. Francis Hotel Elevators
 * Stow Lake
 * Dolores Park
 * Alcatraz

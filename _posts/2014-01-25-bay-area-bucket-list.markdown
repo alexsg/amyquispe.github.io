@@ -9,6 +9,8 @@ I want to make the most of the time I'm still living in San Francisco.
 Here's a list of suggestions gathered from friends. If you'd like to help extend
 my bucket list (and possibly my stay) feel free to [file a pull request on github](https://github.com/amyquispe/amyquispe.github.io/blob/master/_posts/2014-01-25-bay-area-bucket-list.markdown).
 
+***
+
 # Food #
 
 * Burma Superstar: Tea Leaf Salad
@@ -17,6 +19,7 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * [any legit taqueria]: Mission Burrito
 * [any legit hipster place]: Fancy brunch  
 
+***
 
 # Active #
 
@@ -35,6 +38,8 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Get 10 friends together for the Real Escape Game 
 * Learn to stop worrying and love the bike  
 
+***
+
 # Chilling #
 
 * Twin Peaks
@@ -52,6 +57,8 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Lombard St.
 * Palace of Fine Arts
 * Golden Gate Park  
+
+***
 
 # Not quite the Bay #
 

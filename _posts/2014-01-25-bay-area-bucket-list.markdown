@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amy's Bay Area Bucket List
-published: false
+published: true
 ---
 
 It's no secret that I plan to move back to NYC sooner or later Until then, 

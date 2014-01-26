@@ -10,14 +10,16 @@ Here's a list of suggestions gathered from friends. If you'd like to help extend
 my bucket list (and possibly my stay) feel free to [file a pull request on github](https://github.com/amyquispe/amyquispe.github.io/blob/master/_posts/2014-01-25-bay-area-bucket-list.markdown).
 
 # Food #
+
 * Burma Superstar: Tea Leaf Salad
 * Richmond/Sunset: Legit Asian Food
 * [Bi-rite, Humphrey Slocombe, Mitchell's, Smitten]
 * [any legit taqueria]: Mission Burrito
 * [any legit hipster place]: Fancy brunch  
-  
+
 
 # Active #
+
 * Bike ride on a closed-off-to-cars JFK boulevard on a Sunday
 * Go to Nightlife on Thursdays at Cal Academy
 * Get a blow out at a ritzy hair place in Pac Heights
@@ -32,9 +34,9 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Ride the St. Francis Hotel Elevators
 * Get 10 friends together for the Real Escape Game 
 * Learn to stop worrying and love the bike  
-  
 
 # Chilling #
+
 * Twin Peaks
 * Fort Miley
 * Ghiradelli at Fisherman's Wharf
@@ -50,8 +52,8 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Lombard St.
 * Palace of Fine Arts
 * Golden Gate Park  
-  
 
 # Not quite the Bay #
+
 * Rent a cabin in Tahoe
-* Camp in Yosemite
+* Camp in Yosemite  

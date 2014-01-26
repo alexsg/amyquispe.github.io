@@ -14,7 +14,8 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Richmond/Sunset: Legit Asian Food
 * [Bi-rite, Humphrey Slocombe, Mitchell's, Smitten]
 * [any legit taqueria]: Mission Burrito
-* [any legit hipster place]: Fancy brunch
+* [any legit hipster place]: Fancy brunch  
+
 # Active #
 * Bike ride on a closed-off-to-cars JFK boulevard on a Sunday
 * Go to Nightlife on Thursdays at Cal Academy
@@ -29,7 +30,8 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Dance at Bootie SF
 * Ride the St. Francis Hotel Elevators
 * Get 10 friends together for the Real Escape Game 
-* Learn to stop worrying and love the bike
+* Learn to stop worrying and love the bike  
+
 # Chilling #
 * Twin Peaks
 * Fort Miley
@@ -45,7 +47,8 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Baker Beach
 * Lombard St.
 * Palace of Fine Arts
-* Golden Gate Park
+* Golden Gate Park  
+
 # Not quite the Bay #
 * Rent a cabin in Tahoe
 * Camp in Yosemite

@@ -15,6 +15,7 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * [Bi-rite, Humphrey Slocombe, Mitchell's, Smitten]
 * [any legit taqueria]: Mission Burrito
 * [any legit hipster place]: Fancy brunch  
+  
 
 # Active #
 * Bike ride on a closed-off-to-cars JFK boulevard on a Sunday
@@ -31,6 +32,7 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Ride the St. Francis Hotel Elevators
 * Get 10 friends together for the Real Escape Game 
 * Learn to stop worrying and love the bike  
+  
 
 # Chilling #
 * Twin Peaks
@@ -48,6 +50,7 @@ my bucket list (and possibly my stay) feel free to [file a pull request on githu
 * Lombard St.
 * Palace of Fine Arts
 * Golden Gate Park  
+  
 
 # Not quite the Bay #
 * Rent a cabin in Tahoe
